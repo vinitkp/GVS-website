@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> 
+Gramin Vikas Sansthan
+</title>
+<link rel="stylesheet" href="css/home.css">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<tyle type="text/css">
+<style type="text/css">
+#content{
+		font-size:18pt;
+		
+		margin-top:40px;
+}
+.nav-logo{
+		font-size:24pts;
+		margin:20px 0;
+		color:#fff;
+		width:300px;
+		padding:10px 0 ;
+		text-align:center;
+}
+
+</style>
+</head>
+<body>
+	<div id="main-container">
+	<div id="head">
+		<div id="logo">
+			<div id="main-logo">
+				<div id="main1">G</div>
+				<div id="main1">V</div>
+				<div id="main1">S</div>
+			</div>                                                                        <!--main logo ends-->
+			
+			<span style="margin-left:20px; font-weight:bold;color:#fff;">Gramin Vikas Sansthan</span></div>
+		<div id="navigation">
+		<ul>
+			
+					<li class="banner"><a href="index.html" title="Home">Home</a></li>
+					<li class="banner"><a href="activity.html" title="Activities">Activities</a></li>
+					<li class="banner"><a href="team.html" title="Our Team">Our Team</a></li>
+					<li class="banner"><a href="gallery.html" title="Our Team">Gallery</a></li>
+					<li class="banner"><a href="awards.html" title="Awards">Awards</a></li>
+					<li class="banner"><a href="annual.html" title="Annual Reports">Annual Reports</a></li>
+					<li class="banner"><a href="contactus.html" title="Contact Us">Contact Us</a></li>
+			
+		</ul>
+		</div>
+		
+	</div>
+	
+	<div id="content">
+		<div class="nav-logo"style="background:green;"><a href="Annual_Report_2011-2012.docx"> Annual Report 2011-12 </a></div>
+		<div class="nav-logo" style="background:#f62217;"><a href="Progress report 2008-2011.doc">Progress Report 2008-11</a></div>
+	
+	</div>
+	
+	
+	</div>
+	<div id="footer">
+		Site developed and maintained by <a href="#">Vinit Pandey </a>during Rural Internship 2012
+</div>
+</body>
+</html>

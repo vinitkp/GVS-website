@@ -1,0 +1,204 @@
+body{
+		font-family: "wf_SegoeUI","Segoe UI","Segoe","Segoe WP","Tahoma","Verdana","Arial","sans-serif";
+		
+}
+#main-container{
+		width:1200px;
+		margin:0px auto;
+		margin-top:20px;
+		min-height:600px;
+		
+}
+#top-space{
+			<--position:absolute;
+			top:0;
+			left:0;
+			
+			height: 40px;
+			width: 100%;
+			margin:0;
+			padding:0;
+			<--mar-->
+			
+			}
+#head{
+		height:150px;
+		width:100%;
+		
+		background:#1569c7;
+		
+}
+#logo{
+		height:60px;
+		font-family:"wf_SegoeUI","Segoe UI","Segoe","Segoe WP","Tahoma","Verdana","Arial","sans-serif";
+		font-size:24pt;
+		margin-left:10px;
+		padding-top:10px;
+		
+		
+}
+#navigation{
+		height:50px;
+		width:75%;
+		
+		
+		
+}
+#navigation ul{
+		list-style:none;
+		margin-left:0;
+		margin-top:0px;
+		padding-left:0;
+		border-top:0;
+		
+		
+		
+}
+a{ 
+		text-decoration:none;
+		color:#fff;
+}
+.banner{
+		display:inline-block;
+		padding:5px 10px 4px 10px;
+		font-size:16pt;
+		font-family: "wf_SegoeUI","Segoe UI","Segoe","Segoe WP","Tahoma","Verdana","Arial","sans-serif";
+}
+.banner a:hover{
+		color:#fff;
+}
+.banner:hover{
+		
+		border-bottom:2px solid #fff;
+		
+}
+
+
+#main-logo{
+		height:60px;
+		width:20px;
+		float:left;
+		font-size:10pt;
+		background:#fff;
+		
+}
+#main1{
+		color:#1569c7;
+		height:20px;
+		border-bottom:1px solid #1569c7;
+		padding-left:5px;
+		font-weight:bold;
+		
+		
+}
+#footer{
+		width:1200px;
+		margin:10px auto 0 auto;
+		background:#1569c7;
+		color:#fff;
+		font-size:10pt;text-align:center;
+		
+}
+.heading{
+		
+		margin-right:30px;
+		width:140px;
+		padding-top:25px;
+		float:left;
+		text-align:center;
+		font-size:18pt;
+		color:#fff;
+		background:#1569c7;
+		height:80%;
+}
+#cont .info-container{
+		margin-top:40px;
+		height:90px;
+}
+
+
+
+* {
+	margin:0px;
+	padding:0px;
+	border:0px;
+}
+#slideshowContainer {
+	width: 800px;
+	margin 50px 0 0 160px;
+	position:relative;
+	height:300px;
+	
+}
+.slideshow {
+	height: 332px;
+	position:absolute;
+	left:75px;
+}
+.slideshow img {
+	padding: ;
+	
+	background-color: #eee;
+}
+
+
+
+--------
+
+
+
+.defi{
+		
+}
+.defi ul{
+		list-style:none;
+}
+.defi ul li{
+		text-decoration:none;
+		
+}
+#slideshowContainer {
+	width: 800px;
+	margin: 70px 0 0 160px;
+	position:relative;
+	
+}
+.slideshow {
+	height: 332px;
+	position:absolute;
+	left:75px;
+}
+.slideshow img {
+	padding: ;
+	
+	background-color: #eee;
+}
+#prev{
+		float:left;
+		padding-top:140px;
+		background-image:url(images/left.png); 
+		background-repeat:no-repeat;
+		height:100px;
+		width:100p;
+		margin-right:650px;
+}
+#next{
+		float:right;
+		padding-top:140px;
+		
+		background-image:url(images/left.png); 
+		background-repeat:no-repeat;
+		height:100px;
+		width:100p;
+}
+
+ #next:hover {
+	background-image:url(images/right_over.png);
+}
+#prev:hover {
+	background-image:url(images/left_over.png);
+}
+#clear{
+		display:block;
+		clear:both;
+}
